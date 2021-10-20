@@ -42,7 +42,7 @@ end
 end)
 
 
-at line 36 at end you can see coordinates and "TLMCEXAMPLE", false) so if you create some of your new images you must rename "TLMCEXAMPLE" to your new picture to show up and change coordinates.
+at line 120 at end you can see coordinates and "TLMCEXAMPLE", false) so if you create some of your new images you must rename "TLMCEXAMPLE" to your new picture to show up and change coordinates.
 
 Enjoy
 
